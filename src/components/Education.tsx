@@ -48,7 +48,7 @@ export default function Education() {
                 <div className="flex items-start gap-2.5">
                   <Landmark className="w-4 h-4 text-zinc-400 flex-shrink-0 mt-0.5" />
                   <div>
-                    <h4 className="font-bold text-slate-200 dark:text-slate-100 light:text-slate-800">Apex Technical University</h4>
+                    <h4 className="font-bold text-slate-200 dark:text-slate-100 light:text-slate-800">Bihar Engineering University</h4>
                     <p>Patna Campus, India</p>
                   </div>
                 </div>
@@ -74,7 +74,7 @@ export default function Education() {
               <div className="p-4 rounded-xl bg-gradient-to-r from-blue-500/10 to-purple-500/10 border border-blue-500/20 text-center font-mono">
                 <span className="text-zinc-500 text-[10px] uppercase font-bold tracking-widest block mb-0.5">Cumulative Grade Point AVG</span>
                 <span className="text-3xl font-display font-bold text-white bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-                  6.90 / 10
+                  7.07 / 10
                 </span>
                 <p className="text-[10px] text-zinc-500 mt-1">Steady Scholastic Progression // Computer Science Track</p>
               </div>
