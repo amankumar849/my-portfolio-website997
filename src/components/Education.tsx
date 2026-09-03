@@ -5,7 +5,7 @@ export default function Education() {
   const semesters = [
     { sem: 'Sem 1-2', gpa: '6.6 / 10', title: 'Foundational Sciences', desc: 'Introductions to discrete equations, engineering physics, procedural algorithms, C++ modeling, logic design.' },
     { sem: 'Sem 3-4', gpa: '7.2 / 10', title: 'Systems & Data Structures', desc: 'Detailed mastery of data schema complexities, algorithm runtime boundaries, OOP paradigms, and standard networking protocols.' },
-    { sem: 'Sem 5-6', gpa: 'Upcoming', title: 'Advanced Full Stack Web', desc: 'Interactive client routing, NoSQL databases, RESTful JSON integrations, MERN middleware frameworks (Express).' },
+    { sem: 'Sem 5-6', gpa: '7.67', title: 'Advanced Full Stack Web', desc: 'Interactive client routing, NoSQL databases, RESTful JSON integrations, MERN middleware frameworks (Express).' },
     { sem: 'Sem 7-8', gpa: 'Upcoming', title: 'Graduation Capstones & Thesis', desc: 'Industrial projects, microservices clustering, and structural software engineering practices.' },
   ];
 
