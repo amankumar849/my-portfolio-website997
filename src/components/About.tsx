@@ -45,7 +45,7 @@ export default function About() {
             </h3>
             
             <p className="text-slate-400 light:text-slate-600 leading-relaxed font-sans">
-              I am a dedicated **B.Tech Computer Science student** (graduating in **2027**) with an unquenchable curiosity for web systems architectures. By self-guided exploration and intensive coursework, I have mastered the MERN schema and relational database engines.
+              I am a dedicated B.Tech Computer Science student (graduating in 2027) with an unquenchable curiosity for web systems architectures. By self-guided exploration and intensive coursework, I have mastered the MERN schema and relational database engines.
             </p>
 
             <p className="text-slate-400 light:text-slate-600 leading-relaxed">
