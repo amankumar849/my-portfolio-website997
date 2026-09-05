@@ -24,7 +24,7 @@ export default function Skills() {
     { name: 'GitHub', level: 88, category: 'Tools' },
     { name: 'VS Code', level: 90, category: 'Tools' },
     { name: 'Vercel', level: 82, category: 'Tools' },
-    { name: 'Postman', level: 80, category: 'Tools' },
+    { name: 'Firebase', level: 80, category: 'Tools' },
   ];
 
   const categories = [
