@@ -1,3 +1,4 @@
+import CodingStats from './components/CodingStats';
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Terminal, RefreshCw } from 'lucide-react';
@@ -137,6 +138,7 @@ export default function App() {
           <Hero onNavigate={navigateToSection} />
           <About />
           <Skills />
+          <CodingStats />
           <Projects />
           <Experience />
           <Education />
