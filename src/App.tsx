@@ -89,10 +89,10 @@ export default function App() {
   };
 
   return (
-    <div className={`min-h-screen font-sans ${
+   <div className={`min-h-screen font-sans ${
       theme === 'dark' 
         ? 'bg-neutral-950 text-slate-100 selection:bg-blue-500/30 selection:text-blue-300' 
-        : 'bg-neutral-50 text-slate-900 selection:bg-purple-500/20 selection:text-purple-700'
+        : 'bg-gradient-to-br from-slate-50 via-blue-50 to-purple-50 text-slate-900 selection:bg-purple-500/20 selection:text-purple-700'
     } transition-colors duration-300`}>
       
       {/* Premium Developer-Style Loader Backdrop */}
