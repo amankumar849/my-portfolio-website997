@@ -8,7 +8,6 @@ This portfolio is designed to provide a professional overview of my technical sk
 
 ## ✨ Features
 
-
 - Responsive and modern UI
 - About Me section
 - Education and academic background
